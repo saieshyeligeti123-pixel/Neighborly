@@ -1,0 +1,8 @@
+{
+  "name": "Neighborly",
+  "description": "Neighborly: A trusted peer-to-peer community resource borrowing and rental sharing platform with resident verification, lender-borrower chat, and escrow deposits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
